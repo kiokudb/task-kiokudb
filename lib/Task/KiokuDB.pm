@@ -7,7 +7,7 @@ use warnings;
 
 use 5.008;
 
-our $VERSION = "0.06";
+our $VERSION = "0.07";
 
 __PACKAGE__
 
