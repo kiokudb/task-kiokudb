@@ -56,9 +56,9 @@ feature 'CLI',
   -default       => 1,
   'KiokuDB::Cmd' => 0;
 
-feature 'Files backend',
-  -default                  => 1,
-  'KiokuDB::Backend::Files' => 0;
+# feature 'Files backend',
+#   -default                  => 1,
+#   'KiokuDB::Backend::Files' => 0;
 
 feature 'XS acceleration for JSON',
   -default   => scalar(can_cc()),

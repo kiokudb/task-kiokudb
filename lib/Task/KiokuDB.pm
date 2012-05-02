@@ -38,10 +38,6 @@ All of these are considered optional.
 
 Commands for the C<kioku> command line program.
 
-=item L<KiokuDB::Backend::Files>
-
-The file backend. Defaults to true.
-
 =item L<KiokuDB::Backend::BDB>
 
 L<BerkeleyDB> backend. Requires an installed BerkeleyDB, preferably linked
