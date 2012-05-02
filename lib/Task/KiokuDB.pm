@@ -19,10 +19,6 @@ __END__
 
 Task::KiokuDB - Install L<KiokuDB> and related modules.
 
-=head1 SYNOPSIS
-
-	cpan> install Task::KiokuDB
-
 =head1 DESCRIPTION
 
 This bundle installs L<KiokuDB> and depending on the environment several
